@@ -118,7 +118,7 @@ function App() {
               Email Address <span className="text-medium-green">*</span>
             </label>
             <input
-              type="email"
+              type="text"
               name="email"
               id="email"
               value={email}
